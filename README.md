@@ -1,4 +1,4 @@
-# 2048 Game in Java
+# 2048 Game in Java (Console Based)
 
 ## Description
 This is a console-based implementation of the popular 2048 puzzle game written in Java. The game is played on a 4x4 grid where players combine numbered tiles by moving them up, down, left or right to achieve a tile with the value of 2048. The game features a simple text-based interface, score tracking and random tile generation.
